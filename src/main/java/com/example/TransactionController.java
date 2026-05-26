@@ -2,7 +2,6 @@ package com.example.finance;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -28,6 +27,6 @@ public class TransactionController {
 
     @GetMapping("/check")
     public String check() {
-        return "WORKING";
+        return "Working!";
     }
 }
