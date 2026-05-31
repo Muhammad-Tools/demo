@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>finanace-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>finance-tracker-app</name>
 	<description>Full-stack personal finance tracking application</description>
